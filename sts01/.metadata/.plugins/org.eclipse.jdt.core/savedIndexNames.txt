@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/onty/Documents/_Eclipse_workspaces/sts01/.metadata/.plugins/org.eclipse.jdt.core
+1014526133.index
+4232720683.index
+284898978.index

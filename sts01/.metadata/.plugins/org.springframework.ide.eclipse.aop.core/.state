@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gs-rest-service-complete"/>
+<aop-project name="gs-rest-service-initial"/>
+<aop-project name="gs-rest-service-sample"/>
+</aop-reference-model>

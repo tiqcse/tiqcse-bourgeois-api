@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: onty
+Build-Jdk: 10.0.1
+Implementation-Title: tryRestApi01
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: onty.javaRestApi
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tryRestApi01
+Created-By: Maven Integration for Eclipse
+
