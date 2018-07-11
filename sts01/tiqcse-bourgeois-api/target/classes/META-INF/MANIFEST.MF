@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: onTy
+Build-Jdk: 10
+Implementation-Title: tiqcse-bourgeois-api-server
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: tiqcse.bourgeois.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tiqcse-bourgeois-api-server
+Created-By: Maven Integration for Eclipse
+

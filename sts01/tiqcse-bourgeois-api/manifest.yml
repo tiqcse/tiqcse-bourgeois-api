@@ -1,0 +1,8 @@
+---
+applications:
+- name: tiqcse-bourgeois-api-server
+  memory: 256M
+  instances: 1
+  host: rest-service
+  domain: api.tiqcse.com
+  path: build/libs/tiqcse-bourgeois-api-server-0.0.1.jar
