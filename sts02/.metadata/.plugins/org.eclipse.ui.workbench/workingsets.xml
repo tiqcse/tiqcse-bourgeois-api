@@ -13,11 +13,11 @@
 <item elementID="=security/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1531134150103_2" label="bookmarks" name="bookmarks">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tut-bookmarks" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rest" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/security" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/tut-bookmarks" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/hateoas" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/model" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1531134317116_3" label="Window Working Set" name="Aggregate for window 1531134317116"/>
 </workingSetManager>
