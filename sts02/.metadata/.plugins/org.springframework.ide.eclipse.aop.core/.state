@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model>
-<aop-project name="rest"/>
-<aop-project name="security"/>
-<aop-project name="hateoas"/>
-<aop-project name="model"/>
-</aop-reference-model>
